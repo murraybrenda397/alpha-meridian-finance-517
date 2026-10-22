@@ -1,0 +1,5 @@
+# About alpha-meridian-finance-517
+
+Workflow scripts for developers who automate repeated tasks.
+
+This project is maintained as a practical workspace for development notes, automation helpers, and source code examples.
